@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pathikrish
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning UI/UX
+- 👀 Aspiring Software Developer
+- 🌱 Java
 - 📫 Reach me in Linkedin
 
 <!---
