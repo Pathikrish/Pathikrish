@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pathikrish
 - 👀 Aspiring Software Developer
-- 🌱 Java
+- 🌱 Java, SpringBoot, MySql, Postman API
 - 📫 Reach me in Linkedin
 
 <!---
