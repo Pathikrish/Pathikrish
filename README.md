@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3>A passionate Software Engineer from India</h3>
+<h3>An Aspiring Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathikrish&label=Profile%20views&color=0e75b6&style=flat" alt="pathikrish" /> </p>
 
